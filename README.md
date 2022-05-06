@@ -1,7 +1,2 @@
-## jMemo
-
-```sh
-cd ./jmemo
-npm install -g webpack webpack-cli
-webpack
-```
+## uvhw  
+```sh cd ./uvhw npm install -g webpack webpack-cli webpack ```
